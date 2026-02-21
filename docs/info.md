@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Just testing how wokwiki can convert to GDS. Add one AND and one OR gate between inputs and a digital clock output.
 
 ## How to test
 
